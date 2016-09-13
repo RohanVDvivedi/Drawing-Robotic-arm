@@ -7,7 +7,7 @@ There are 2 servo motors used for controlling the position of the pen on the boa
 
 Aim:- To make a Robotic Drawing Arm that mimics the motion of a finger on touchpad or a mouse.
 
-Initiated by:- Rohan Dvivedi(2014 Batch) and Kativarpu Parthiv(2014 Batch).
+Initiated by:- Rohan Dvivedi and Kativarpu Parthiv.
 
 Hardware used:-
 2 – 5 kg-cm torque servos
