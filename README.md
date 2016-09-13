@@ -20,4 +20,4 @@ Hardware used:-
 
 Details:- The Structure of this Draw-arm is similar to the arm of a person posed for drawing/writing things up. A laptop was used for most of the processing and the Arduino was only used to control the servo motors. A Cpp code took the mouse co-ordinates as input and scaled them to the 31cm * 40cm drawing board. The scaled input was then used to change the angles of the servo motors to reach the particular point in the drawing board. This information of the angle of the servo motor was relayed to the Arduino using serial communication over USB.
 
-Videos:- The Video can be found here :
+Videos:- The Video can be found here : https://youtu.be/kQPi9CGzyg4
