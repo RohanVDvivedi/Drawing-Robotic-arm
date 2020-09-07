@@ -1,13 +1,12 @@
 # Drawing Robotic arm
-This are code for the making of a robotic arm that writes and draws as the movement of mouse position on the laptop screen
+
+This repository contains source code for building a robotic arm that writes and draws by mimicking the movement of mouse position on the laptop screen.
 
 The robot is made from corrugated plastic sheet, It is in the shape of an arm of a human being as if s/he is writing.
 There are 2 servo motors used for controlling the position of the pen on the board.
 2 servos move two link to reach out different position on the drawing board
 
 Aim:- To make a Robotic Drawing Arm that mimics the motion of a finger on touchpad or a mouse.
-
-Initiated by:- Rohan Dvivedi and Kativarpu Parthiv.
 
 Hardware used:-
 2 – 5 kg-cm torque servos
